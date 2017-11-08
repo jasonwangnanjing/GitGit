@@ -19,14 +19,8 @@ public class MainController {
     private String name;
  private int age;
 
-    public double getHeight() {
-        return height;
-    }
-
-    public void setHeight(double height) {
-        this.height = height;
-    }
-
-    private double height;
+private double height;
+    
+    private double weight;
 
 }
