@@ -38,7 +38,8 @@ public class MainController {
     public void setWeight(double weight) {
         this.weight = weight;
     }
-
+    private double assSize;
+    private double breastSize;
 
 
 
