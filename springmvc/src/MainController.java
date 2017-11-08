@@ -17,12 +17,10 @@ public class MainController {
     }
 
     private String name;
- private int age;
-
-
+    private int age;
 
     private double height;
-    
+
     private double weight;
 
     public double getHeight() {
@@ -40,6 +38,8 @@ public class MainController {
     public void setWeight(double weight) {
         this.weight = weight;
     }
+
+
 
 
 
