@@ -19,5 +19,6 @@ public class MainController {
     private String name;
  private int age;
 
+private int height;
 
 }
