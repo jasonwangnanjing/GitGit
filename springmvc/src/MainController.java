@@ -20,5 +20,7 @@ public class MainController {
  private int age;
 
 private double height;
+    
+    private double weight;
 
 }
